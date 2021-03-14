@@ -10,6 +10,6 @@ class AddNumbers
       x = in.nextInt();
       y = in.nextInt();
       z = x + y;
-      System.out.println("Sum of entered integers = "+z);
+      System.out.println("Sum of entered integers is : "+z);
    }
 }
